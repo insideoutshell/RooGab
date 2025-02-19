@@ -4,7 +4,7 @@ RooGab is a local proxy server that enables the use of various AI models through
 
 ## Disclaimer
 
-This project is provided for **educational purposes only**. The author is not responsible for how users choose to use this software. Users are responsible for ensuring their use complies with all applicable terms of service and laws. This creates an anonymous socket with the provider but it is possible to provide authentication cookies if desired.
+This project is provided for **educational purposes only**. The author is not responsible for how users choose to use this software. Users are responsible for ensuring their use complies with all applicable terms of service and laws. This creates an anonymous socket with the provider but it is possible to provide authentication cookies if desired. Do not expect this to work long.
 
 ## Features
 
