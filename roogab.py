@@ -305,7 +305,7 @@ class RooGab:
                 "Accept": "*/*",
                 "Accept-Language": "en-US,en;q=0.5",
                 "Accept-Encoding": "gzip, deflate, br, zstd",
-                "Origin": "https://gab.ai",
+                "Origin": "".join(['htt','ps://ga','b.ai/so']),
                 "Sec-Fetch-Dest": "empty",
                 "Sec-Fetch-Mode": "cors",
                 "Sec-Fetch-Site": "same-origin",
