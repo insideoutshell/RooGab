@@ -25,6 +25,7 @@ This project is provided for **educational purposes only**. The author is not re
 - And more
 
 ## Limitations
+(Late edit: If you receive a "**Non-compliant response**", this means the model didn't comply with the prompt required for responses to be parsed. You should be able to just regenerate or start a new task.)
 
 ### Technical Constraints
 - One conversation per IP address per task
